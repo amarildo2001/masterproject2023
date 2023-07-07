@@ -9,3 +9,5 @@ router.post('/register', authController.register);
 
 // Route for user login
 router.post('/login', authController.login);
+
+module.exports = authController;
