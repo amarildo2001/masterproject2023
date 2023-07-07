@@ -2,6 +2,11 @@
 
 Participants in the project: Amarildo Prendi, Isarda Kuci
 
+db name: mastrproject
+db username: amarildoprendi
+db password: rildo123
+host: localhost
+port: 5432
 
 Following the instructions in the project documetation we did these steps:
 
